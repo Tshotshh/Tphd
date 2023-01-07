@@ -13,17 +13,17 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Salamander
+first_name: Tshotsho
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: 
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Hohenheim University
+  url: https://www.universitat-uni.de/
+role: Doctoral Student
 social:
 - icon: envelope
   icon_pack: fas
