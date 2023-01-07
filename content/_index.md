@@ -207,12 +207,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
+      city: Stuttgart
+      country: Germany
       country_code: US
-      postcode: "94305"
+      postcode: "73760"
       region: CA
-      street: 450 Serra Mall
+      street: Ottilie-Zeller-Weg 6
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -228,8 +228,8 @@ sections:
       icon_pack: fas
       link: https://zoom.com
       name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    directions: Container building south of the biobuilding Room 032 and enter Building 02.91
+    email: tshotsho.tshotsho@uni-hohenheim.de
     form:
       formspree:
         id: null
@@ -239,7 +239,7 @@ sections:
     office_hours:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    phone: +49 17666979786
     subtitle: null
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
       ut magna et, vehicula efficitur enim.
