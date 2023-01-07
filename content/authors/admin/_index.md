@@ -49,8 +49,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Tshotsho 吳恩達
 ---
 
-Salamander is an assistant professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tshotsho is currently a doctoral student at the faculty of agricultural sciences of University of Hohenheim. His research interests include social networks, organic farming and bayesian statistics. 
 {style="text-align: justify;"}
